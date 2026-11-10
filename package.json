@@ -1,0 +1,17 @@
+{
+  "name": "r90-hud-cs2",
+  "version": "1.0.0",
+  "description": "R90 HUD: HUD de transmissão para Counter-Strike 2 com painel de controle, minimapa, veto, MVP do round e patrocinadores.",
+  "private": true,
+  "license": "MIT",
+  "author": "Sauro Rodrigues Jr",
+  "homepage": "https://github.com/saurorodriguesjunior-dot/r90-hud-cs2#readme",
+  "repository": { "type": "git", "url": "https://github.com/saurorodriguesjunior-dot/r90-hud-cs2.git" },
+  "keywords": ["cs2", "counter-strike", "hud", "obs", "overlay", "gsi", "broadcast", "esports"],
+  "scripts": {
+    "start": "node server.js",
+    "simular": "node simulate.js",
+    "radares": "node tools/extrair-radares.js"
+  },
+  "engines": { "node": ">=18" }
+}

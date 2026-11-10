@@ -1,0 +1,19 @@
+# Dados locais de cada usuário: configurações, biblioteca de times, escudos e logos enviados
+data/
+
+# Radares e coordenadas gerados do CS2 instalado (imagens da Valve, não redistribuir)
+public/maps/*
+!public/maps/.gitkeep
+
+# Ícones de armas próprios do usuário (mantém só o LEIA-ME)
+public/icons/weapons/*
+!public/icons/weapons/LEIA-ME.txt
+
+# Node e sistema
+node_modules/
+npm-debug.log*
+.env
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log

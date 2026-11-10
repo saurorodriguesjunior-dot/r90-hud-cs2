@@ -1,0 +1,19 @@
+ÍCONES DE ARMAS PRÓPRIOS
+
+O HUD já tem silhuetas desenhadas para todas as armas. Se quiser usar um ícone seu
+numa arma, coloque o arquivo nesta pasta com o nome da arma no jogo e reinicie a página do HUD.
+
+Formatos: .svg (melhor), .png ou .webp com fundo transparente.
+Desenho: arma de perfil com o cano virado para a DIREITA, em branco.
+Tamanho sugerido: 256 x 96 px (proporção 8:3).
+
+Nomes aceitos:
+  Fuzis:    ak47  m4a1  m4a1_silencer  famas  galilar  aug  sg556
+  Snipers:  awp  ssg08  scar20  g3sg1
+  SMGs:     mp9  mac10  mp7  mp5sd  ump45  p90  bizon
+  Escopetas: nova  xm1014  mag7  sawedoff
+  Pesadas:  m249  negev
+  Pistolas: glock  hkp2000  usp_silencer  p250  elite  fiveseven  tec9  cz75a  deagle  revolver
+  Outros:   knife  taser
+
+Exemplo: ak47.svg, awp.png, usp_silencer.svg
